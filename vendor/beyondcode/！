@@ -1,0 +1,26 @@
+" ============================================================================
+" Netrw Directory Listing                                        (netrw v156)
+"   /wwwroot/1811api/vendor/beyondcode/laravel-dump-server
+"   Sorted by      name
+"   Sort sequence: [\/]$,\<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,\~\=\*$,*,\.o$,\.obj$,\.info$,\.swp$,\.bak$,\~$
+"   Quick Help: <F1>:help  -:go up dir  D:delete  R:rename  s:sort-by  x:special
+" ==============================================================================
+../	              0 Fri 08 Nov 2019 05:00:05 PM CST
+./	              0 Wed 08 Jan 2020 09:41:00 AM CST
+.git/	              0 Wed 08 Jan 2020 09:38:17 AM CST
+config/	              0 Fri 08 Nov 2019 05:00:29 PM CST
+src/	              0 Fri 08 Nov 2019 05:00:29 PM CST
+tests/	              0 Fri 08 Nov 2019 05:00:29 PM CST
+.editorconfig*	            312 Fri 08 Nov 2019 05:00:29 PM CST
+.gitattributes*	            429 Fri 08 Nov 2019 05:00:29 PM CST
+.gitignore*	             46 Fri 08 Nov 2019 05:00:29 PM CST
+.scrutinizer.yml*	            507 Fri 08 Nov 2019 05:00:29 PM CST
+.styleci.yml*	             66 Fri 08 Nov 2019 05:00:29 PM CST
+.travis.yml*	            445 Fri 08 Nov 2019 05:00:29 PM CST
+CHANGELOG.md*	            132 Fri 08 Nov 2019 05:00:29 PM CST
+CONTRIBUTING.md*	           2972 Fri 08 Nov 2019 05:00:29 PM CST
+LICENSE.md*	           1098 Fri 08 Nov 2019 05:00:29 PM CST
+README.md*	           2502 Fri 08 Nov 2019 05:00:29 PM CST
+composer.json*	           1426 Fri 08 Nov 2019 05:00:29 PM CST
+helpers.php*	            371 Fri 08 Nov 2019 05:00:29 PM CST
+phpunit.xml.dist*	           1050 Fri 08 Nov 2019 05:00:29 PM CST
